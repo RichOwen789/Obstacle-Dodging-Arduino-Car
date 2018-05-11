@@ -1,5 +1,5 @@
-//https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
-
+//https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/ Sensor code I referenced while programming.
+//https://github.com/RichOwen789/Obstacle-Dodging-Arduino-Car GitHub repository
 //********************************************* Setup
 
 //set up start button
